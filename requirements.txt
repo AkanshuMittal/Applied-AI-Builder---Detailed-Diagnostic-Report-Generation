@@ -1,0 +1,9 @@
+streamlit
+langgraph
+langchain
+openai
+pdfplumber
+pymupdf
+python-docx
+docx2pdf
+pillow

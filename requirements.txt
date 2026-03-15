@@ -7,3 +7,4 @@ pymupdf
 python-docx
 docx2pdf
 pillow
+python-dotenv
